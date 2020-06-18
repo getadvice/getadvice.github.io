@@ -2,7 +2,7 @@
 layout: post
 firstname: Adriano
 lastname: Galello
-pic_url: https://picsum.photos/200
+pic_url: https://raw.githubusercontent.com/getadvice/getadvice.github.io/master/assets/profile-pics/gdi3d.jpg
 lang: ["spanish", "english"]
 categories: Programming DevOps
 tags: Python AWS Docker MVP
@@ -12,6 +12,6 @@ linkedin: adriano.galello
 blog: https://gdi3d.github.io/
 twitter: 
 permalink: adriano.galello.html
-donate_url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=adriano.galello%40gmail.com&item_name=Thanks&currency_code=USD&source=url"
-calendar_url: https://calendly.com/adrianogalello/yameeting
+donate_url: 
+calendar_url: https://calendly.com/adrianogalello/freetime
 ---
