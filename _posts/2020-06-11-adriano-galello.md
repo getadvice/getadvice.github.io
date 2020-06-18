@@ -2,7 +2,7 @@
 layout: post
 firstname: Adriano
 lastname: Galello
-pic_url: https://raw.githubusercontent.com/getadvice/getadvice.github.io/master/assets/profile-pics/gdi3d.jpg
+pic_url: https://raw.githubusercontent.com/getadvice/getadvice.github.io/master/assets/profile-pics/gdi.jpg
 lang: ["spanish", "english"]
 categories: Programming DevOps
 tags: Python AWS Docker MVP
