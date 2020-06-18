@@ -1,0 +1,48 @@
+---
+---
+
+.tagsinput input {
+    font-size: 1em;
+    outline: none;
+}
+
+.taglist {
+    list-style: none;
+}
+
+.taglist li {
+  display: inline;
+}
+.taglist li:after {
+  content: ",\00a0";
+}
+.taglist li:last-child:after {
+    content: "";
+}
+.lang {
+    margin-top: 5px;
+    color: #3273dc;
+}
+
+.lang > ul > li {
+    font-size: 0.9em;
+}
+
+
+.whois p {
+    margin: 1em 0;
+  }
+.whois  a {
+    color: #FAFAFA;
+}
+.whois a:hover {
+    text-decoration: underline;
+}
+
+.whois a.button:hover {
+    text-decoration: none;
+}
+
+.page p {
+    margin: 1em 0;
+}

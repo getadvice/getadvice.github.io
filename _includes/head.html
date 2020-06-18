@@ -1,0 +1,8 @@
+<meta charset="UTF-8">
+<title>{% if page.firstname %}{{ page.firstname}} {{ page.lastname }} - {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+<link rel="stylesheet" href="https://unpkg.com/bulma@0.8.0/css/bulma.min.css">
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+<script src="https://kit.fontawesome.com/7dc3015a44.js" crossorigin="anonymous"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">

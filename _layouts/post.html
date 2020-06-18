@@ -1,0 +1,89 @@
+---
+layout: default
+title: Whoami
+---
+<section class="hero is-dark is-bold whois">
+  <div class="hero-body">
+    <div class="container">
+      
+      <div class="columns is-centered">
+        
+        <div class="column is-2">
+          <figure class="image center">
+            <img class="is-rounded" src="{{ page.pic_url }}">
+          </figure>
+
+          <p class="has-text-centered">
+            <span class="icon"><i class="fas fa-map-marker-alt"></i></span> {{ page.city }}
+          </p>
+          <p class=" has-text-centered">
+            <span class="icon"><i class="fas fa-microphone-alt fa-lg"></i></span>
+            {% for lang in page.lang %}
+              {{ lang | capitalize}}{% if forloop.last %}{% else %},{% endif %}
+            {% endfor %}
+          </p>
+          
+          
+        </div>
+        
+        <div class="column is-8">
+          <h1 class="title">
+          {{ page.firstname | capitalize}} {{ page.lastname | capitalize}}
+          </h1>
+          
+          <h2 class="subtitle">
+          {% for category in page.categories %}
+            {{ category }}{% if forloop.last %}{% else %},{% endif %}
+          {% endfor %}
+          </h2>
+          <p class="tags">
+            {% for tag in page.tags %}
+              <span class="tag is-info">{{ tag }}</span>
+            {% endfor %}
+          </p>
+
+          <p class="is-size-4">{{ page.about | truncatewords: 50 }}</p>
+          
+          {% if page.donate_url %}
+          <p>
+            <a href="{{ page.donate_url }}" class="button is-rounded is-small is-warning" target="_blank"><span class="icon"><i class="fa fa-piggy-bank"></i></span> <span>Give a tip</span></a>
+          </p>
+          {% endif %}
+
+          <p>
+            {% if page.linkedin %}
+              <span class="icon"><i class="fab fa-linkedin"></i></span><a href="https://www.linkedin.com/in/{{ page.linkedin }}">{{ page.linkedin }}</a>
+            {% endif %}
+            {% if page.twitter %}
+              <span class="icon"><i class="fab fa-twitter"></i></span><a href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a>
+            {% endif %}
+            
+            {% if page.blog %}
+              <span class="icon"><i class="fas fa-blog"></i></span><a href="{{ page.blog }}">{{ page.blog }}</a>
+            {% endif %}
+          </p>
+          <p>
+            <a href="{{ page.calendar_url }}" class="button is-link is-medium" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
+          </p>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    
+    {% assign page_content = post.content | strip_newlines %}
+    {% if page_content != "" %}
+
+    {{ content }}
+
+    {% else %}
+    <h1 class="is-size-1 has-text-centered">There's no more information about <i>{{ page.firstname }} {{ page.lastname }}</i></h1>
+    {% endif %}
+    <hr>
+    <p class="has-text-centered"><a href="{{ page.calendar_url }}" class="button is-link is-large" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
+  </p>
+</div>
+</section>
