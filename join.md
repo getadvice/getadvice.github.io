@@ -16,13 +16,15 @@ If you have no idea how to do these steps described below feel free to <a href="
 
 To get started you need a few things that you might already have:
 
-1. An account on [Calendly](https://calendly.com/), [Yocale](https://www.yocale.com/), [Shore](https://www.shore.com/), or any other public calendar service.
+1. A GitHub Account to submit/update your profile.
 
-2. Willing to give some of your free time. You decide how much and when by using the calendar service that you choosed.
+2. An account on [Calendly](https://calendly.com/), [Yocale](https://www.yocale.com/), [Shore](https://www.shore.com/), or any other public calendar service.
 
-3. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or anyother that you like.
+3. Willing to give some of your free time. You decide how much and when by using the calendar service that you choosed.
 
-4. A [LinkedIn](https://www.linkedin.com/) profile is preferred to validate you identity.
+4. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or anyother that you like.
+
+5. A [LinkedIn](https://www.linkedin.com/) profile is preferred to validate you identity.
 
 Once the user get in touch with you, then it's up to two of you to work out the details.
 
