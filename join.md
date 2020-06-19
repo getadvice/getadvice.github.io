@@ -12,6 +12,19 @@ If you have no idea how to do these steps described below feel free to <a href="
 
 (I know it's not the best way, but I'm just getting started 🤗)
 
+<h2 class="is-size-3">Getting started</h2>
+
+To get started you need a few things that you might already have:
+
+1. An account on [Calendly](https://calendly.com/), [Yocale](https://www.yocale.com/), [Shore](https://www.shore.com/), or any other public calendar service.
+2. Willing to give some of your free time. You decide how much and when by using the calendar service that you choosed.
+3. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy][https://whereby.com/], [Jitsi Meet](https://meet.jit.si/) or anyother that you like.
+4. A [LinkedIn](https://www.linkedin.com/) profile is preferred to validate you identity.
+
+Once the user get in touch with you, then it's up to two of you to work out the details.
+
+Remember, the main goal is trying to help others.
+
 <h2 class="is-size-3">Fork the repo</h2>
 Fork the repository <a href="https://github.com/"></a> by clicking the Fork button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
 
@@ -41,7 +54,7 @@ permalink: Choose a permalink for this site (usually firstname-lastname.html wil
 donate_url: An URL to allow users to donate or tip you
 calendar_url: An URL to your public calendar like calendly, yocale, shore, etc.
 ---
-You can add extra info or tips for the call or about yourself here if you want it.
+You can add extra info or tips for the call or about yourself if you want it.
 ```
 
 <h2 class="is-size-3">Test it</h2>
