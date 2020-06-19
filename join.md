@@ -54,7 +54,7 @@ linkedin: Your LinkedIn handler (the base URL will be prependedrepend https://ww
 blog: Url to your blog  
 twitter: Your twitter handler (the base URL will be prepended https://twitter.com/)
 permalink: Choose a permalink for this site (usually firstname-lastname.html will be best)  
-donate_url: An URL to allow users to donate or tip you
+donate_url: An URL to allow users to donate
 calendar_url: An URL to your public calendar like calendly, yocale, shore, etc.
 ---
 You can add extra info or tips for the call or about yourself if you want it.

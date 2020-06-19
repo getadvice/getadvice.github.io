@@ -16,7 +16,7 @@ Once you find the right candidate, **schedule a call** with him. All candidates 
 <h2 class="is-size-3">Do I have to pay for the candidate's services?</h2>
 No, although a candidate can ask for it if she or he wants it.
 
-All candidates can publish a **give a tip** button since I intend that this serves as a community that helps each other the best they can.
+All candidates can publish a **Donate to...** button since I intend that this serves as a community that helps each other the best they can.
 
 <h2 class="is-size-3">How to join in as a volunteer?</h2>
 <a href="/join.html">Click here to find out</a>
