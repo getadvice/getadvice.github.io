@@ -31,7 +31,7 @@ Once the user get in touch with you, then it's up to two of you to work out the 
 Remember, the main goal is trying to help others.
 
 <h2 class="is-size-3">Fork the repo</h2>
-Fork the repository <a href="https://github.com/getadvice/getadvice.github.io"></a> by clicking the Fork button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
+<a href="https://github.com/getadvice/getadvice.github.io">Fork the repository</a> by clicking the Fork button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
 
 <h2 class="is-size-3">Create your profile</h2>
 Go to the **_posts** folder and add your profile like this:
