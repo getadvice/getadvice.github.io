@@ -8,7 +8,7 @@ permalink: /join.html
 
 I'm lazy and I didn't create any backend for this. This whole site runs as a <a href="https://jekyllrb.com/docs/ ">Jekyll</a> blog.
 
-If you have no idea how to do these steps described below feel free to <a href="/adriano.galello.html">contact me</a> and I will do it for you.
+If you have no idea how to do the steps described below feel free to <a href="/adriano.galello.html">contact me</a> and I will do it for you.
 
 (I know it's not the best way, but I'm just getting started 🤗)
 
