@@ -65,8 +65,8 @@ You can add extra info or tips for the call or about yourself if you want it.
 <h2 class="is-size-3">Test it</h2>
 Test if everything looks good. This blog works with <a href="https://jekyllrb.com/docs/ ">Jekyll</a> you can clone the forked repo and follow the instructions on Jekyll docs on how to test.
 
-<h2 class="is-size-3">Submit a Merge Request</h2>
-Once you're happy with everything make a **Merge Request** I will review it and accept it if everything is ok.
+<h2 class="is-size-3">Submit a Pull Request</h2>
+Once you're happy with everything make a **Pull Request** I will review it and accept it if everything is ok.
 
 <h2 class="is-size-3">Question!?</h2>
 <a href="/adriano.galello.html">Schedule a call or contact me</a> or <a href="https://github.com/getadvice/getadvice.github.io/issues">open an issue on the repo</a>
