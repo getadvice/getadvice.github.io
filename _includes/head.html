@@ -7,7 +7,13 @@
 <script src="https://kit.fontawesome.com/7dc3015a44.js" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="9VRiAvW3q4tJtvCWjAlA6WBT9Zj5a_8QcDDAawhzaN0" />
+<meta property="og:title" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{{ "/assets/img/android-chrome-512x512.png" | relative_url }}">
+<meta property="og:url" content="https://getadvice.github.io/">
+<meta name="twitter:card" content="{{ "/assets/img/android-chrome-512x512.png" | relative_url }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/apple-touch-icon.png" | relative_url }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/favicon-32x32.png" | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/favicon-16x16.png" | relative_url }}">
 <link rel="manifest" href="{{ "/assets/site.webmanifest" | relative_url }}">
+
