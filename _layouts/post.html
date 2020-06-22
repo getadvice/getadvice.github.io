@@ -46,7 +46,7 @@ title: Whoami
           
           {% if page.donate_url %}
           <p>
-            <a href="{{ page.donate_url }}" class="button is-rounded is-small is-warning" target="_blank"><span class="icon"><i class="fa fa-piggy-bank"></i></span> <span>Donate to {{ page.firstname }} {{ page.lastname }}</span></a>
+            <a href="{{ page.donate_url }}" class="button is-rounded is-small is-warning" target="_blank"><span class="icon"><i class="fa fa-piggy-bank"></i></span> <span>Donate to {{ page.firstname }} {{ page.lastname }}</span></a>
           </p>
           {% endif %}
 
@@ -72,16 +72,10 @@ title: Whoami
   </div>
 </section>
 <section class="section">
-  <div class="container">
+  <div class="container content">
     
-    {% assign page_content = post.content | strip_newlines %}
-    {% if page_content != "" %}
-
     {{ content }}
 
-    {% else %}
-    <h1 class="is-size-1 has-text-centered">There's no more information about <i>{{ page.firstname }} {{ page.lastname }}</i></h1>
-    {% endif %}
     <hr>
     <p class="has-text-centered"><a href="{{ page.calendar_url }}" class="button is-link is-large" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
   </p>

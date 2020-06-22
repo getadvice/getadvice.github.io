@@ -48,8 +48,8 @@ firstname: Firstname
 lastname: Lastname
 pic_url: full url to your profile picture. You can also upload it to the folder assets/profile-pics/
 lang: ["spanish", "english"]  
-categories: Categories separated by space (3 or 4 top)
-tags: Tags separated by space. Keep it under 10
+categories: Categories separated by space or ["Foo", "Bar", "Foo & Bar"] (3 or 4 top)
+tags: Tags separated by space or ["tag 1", "tag 2"]. Keep it under 10
 city: Your City/Country name
 about: A short text about yourself (no longer than 50 words)
 linkedin: Your LinkedIn handler (the base URL will be prependedrepend https://www.linkedin.com/in/)
