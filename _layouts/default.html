@@ -4,22 +4,31 @@
     {% include head.html %}
   </head>
   <body>
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-brand is-size-2">
-          <a href="/" class="navbar-item">Get Advice</a>
+    
+    {% if page.layout != 'home' %}
+      
+      <div class="container head">
+        <div class="columns is-vcentered">
+          <div class="column is-1 has-text-centered-mobile has-text-right">
+            <a href="/"><img src="{{ "/assets/img/android-chrome-192x192.png" | relative_url }}" alt="logo" class="logo"></a>
+          </div>
+          <div class="column is-8 is-hidden-mobile">
+            <h1 class="is-size-4"><a href="/">Get Advice</a></h1>
+            <h2 class="is-size-7">One-on-one calls with other tech people for advice</h2>
+          </div>
         </div>
         
-    </div>
-  </nav>
-  {{ content }}
-  <footer class="footer">
-    <div class="columns has-text-grey-darker has-text-centered">
-      <div class="column is-4 is-size-4"><a href="/">List of volunteers</a></div>
-      <div class="column is-4 is-size-4"><a href="about.html">About this site</a></div>
-      <div class="column is-4 is-size-4"><a href="join.html">Want to join?</a></div>
-    </div>
-  </footer>
-  
+      </div>
+      
+    {% endif %}
+    {{ content }}
+    <footer class="footer">
+      <div class="columns has-text-grey-darker has-text-centered">
+        <div class="column is-4 is-size-4"><a href="/">List of volunteers</a></div>
+        <div class="column is-4 is-size-4"><a href="about.html">Learn more</a></div>
+        <div class="column is-4 is-size-4"><a href="join.html">Want to join?</a></div>
+      </div>
+    </footer>
+    
   </body>
 </html>

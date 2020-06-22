@@ -20,7 +20,7 @@
 
 title: Get Advice | Free talks with tech people
 description: >- # this means to ignore newlines until "baseurl:"
-  Tech people offering their free time to give you advice on a call
+  One-on-one calls with other tech people for advice. Tech people offering their free time to help you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://getadvice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
