@@ -1,6 +1,7 @@
 {
   "short_name": "Get Advice",
   "name": "Get Advice",
+  "description": "One-on-one calls with other tech people for advice. Tech people offering their free time to help you.",
   "icons": [
     {
       "src": "/assets/img/android-chrome-192x192.png",
