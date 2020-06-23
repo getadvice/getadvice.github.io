@@ -27,5 +27,9 @@
   "background_color": "#000000",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#000000"
+  "theme_color": "#000000",
+  "url": "https://getadvice.github.io",
+  "lang": "en",
+  "screenshots": [],
+  "orientation": "portrait"
 }
