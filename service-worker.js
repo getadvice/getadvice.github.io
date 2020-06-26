@@ -2,6 +2,7 @@ var cacheName = 'getadvice-v1';
 var contentToCache = [
   '/',
   '/index.html',
+  '/404.html',
   '/assets/img/android-chrome-192x192.png',
   '/assets/img/android-chrome-512x512.png',
   '/assets/img/favicon-32x32.png',

@@ -4,15 +4,31 @@ title: How to join as a volunteer
 permalink: /join.html
 ---
 
-<h1 class="title is-size-1">{{ page.title }}</h1>
+# {{ page.title }}
 
-I'm lazy and I didn't create any backend for this. This whole site runs as a <a href="https://jekyllrb.com/docs/ ">Jekyll</a> blog.
+I'm lazy and I didn't create any backend for this. This whole site runs as a [Jekyll](https://jekyllrb.com/docs/) blog.
 
-If you have no idea how to do the steps described below feel free to <a href="/adriano.galello.html">contact me</a> and I will do it for you.
+If you have no idea how to do the steps described below feel free to [contact me](/adriano.galello.html) and I will do it for you.
 
 (I know it's not the best way, but I'm just getting started 🤗)
 
-<h2 class="is-size-3">Getting started</h2>
+### Why would I give my time for free (time is money!)
+
+People have asked me this when I was pitching the idea, so here are my reasons on why I do it:
+
+- I'm on tech and earning money thanks to the **free time** donated by others. I'm talking about:
+  - Linux
+  - StackOverflow answers (Try blocking it for 24 hours 😏).
+  - Frameworks 
+  - PHP/Python/GO libraries
+  - Blog posts
+  - ....
+
+Also having calls with random people helps me see new ideas and connecting with people trying to build new stuffs.
+
+*This site is oriented to help people, if you're part of a company you can hire or pay one of the persons here*
+
+### Getting started
 
 To get started you need a few things that you might already have:
 
@@ -20,7 +36,7 @@ To get started you need a few things that you might already have:
 
 2. An account on [Calendly](https://calendly.com/), [Yocale](https://www.yocale.com/), [Shore](https://www.shore.com/), or any other public calendar service.
 
-3. Willing to give some of your free time. You decide how much and when by using the calendar service that you choosed.
+3. Willing to give some of your free time. You decide how much and when by using the calendar service that you choosed. It could be as low a 30 minute call once a month.
 
 4. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or anyother that you like.
 
@@ -30,10 +46,10 @@ Once the user get in touch with you, then it's up to two of you to work out the 
 
 Remember, the main goal is trying to help others.
 
-<h2 class="is-size-3">Fork the repo</h2>
-<a href="https://github.com/getadvice/getadvice.github.io">Fork the repository</a> by clicking the Fork button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
+### Fork the repo
+[Fork the repository](https://github.com/getadvice/getadvice.github.io) by clicking the Fork button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
 
-<h2 class="is-size-3">Create your profile</h2>
+### Create your profile
 Go to the **_posts** folder and add your profile like this:
 
 **YYYY-MM-DD-YOUR-FULL-NAME.md**  
@@ -62,11 +78,11 @@ calendar_url: An URL to your public calendar like calendly, yocale, shore, etc.
 You can add extra info or tips for the call or about yourself if you want it.
 ```
 
-<h2 class="is-size-3">Test it</h2>
-Test if everything looks good. This blog works with <a href="https://jekyllrb.com/docs/ ">Jekyll</a> you can clone the forked repo and follow the instructions on Jekyll docs on how to test.
+### Test it
+Test if everything looks good. This blog works with [Jekyll](https://jekyllrb.com/docs/) you can clone the forked repo and follow the instructions on Jekyll docs on how to test.
 
-<h2 class="is-size-3">Submit a Pull Request</h2>
+### Submit a Pull Request
 Once you're happy with everything make a **Pull Request** I will review it and accept it if everything is ok.
 
-<h2 class="is-size-3">Question!?</h2>
-<a href="/adriano.galello.html">Schedule a call or contact me</a> or <a href="https://github.com/getadvice/getadvice.github.io/issues">open an issue on the repo</a>
+### Question!?
+[Schedule a call or contact me](/adriano.galello.html) or [open an issue on the repo](https://github.com/getadvice/getadvice.github.io/issues)
