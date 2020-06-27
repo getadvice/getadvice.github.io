@@ -9,4 +9,4 @@
 [https://getadvice.github.io/join.html](https://getadvice.github.io/join.html)
 
 ## Contact us on telegram
-[https:/t.me/getadvice/](https:/t.me/getadvice/)
+[https://t.me/getadvice/](https://t.me/getadvice/)
