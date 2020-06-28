@@ -42,3 +42,4 @@ If you want to help out with the project contact me!.
 #### Others community likes this
 
 - [https://www.outofofficehours.com/](https://www.outofofficehours.com/)
+- [https://joinhivemind.com/](https://joinhivemind.com/)
