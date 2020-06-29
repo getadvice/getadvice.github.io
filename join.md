@@ -33,6 +33,17 @@ People have asked me this when I was pitching the idea, so here are my reasons o
 
 *This site is oriented to help people, if you're part of a company you can hire or pay one of the persons here*
 
+### Ok, but I don't too much time
+
+That's fair, but let's break it down:
+
+1. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month.
+
+2. This site, currently, doesn't have millions of users trying to schedule a call with volunteers. That means that your calendar won't get too busy.
+
+3. You can always change your availability on the calendar if you're having a lot of work and can't help for the next few weeks.
+
+
 ### Getting started
 
 To get started you need a few things that you might already have:
