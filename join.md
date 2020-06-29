@@ -33,7 +33,7 @@ People have asked me this when I was pitching the idea, so here are my reasons o
 
 *This site is oriented to help people, if you're part of a company you can hire or pay one of the persons here*
 
-### Ok, but I don't too much time
+### Ok, but I don't have free time
 
 That's fair, but let's break it down:
 
@@ -52,7 +52,7 @@ To get started you need a few things that you might already have:
 
 2. An account on [Calendly](https://calendly.com/), [Yocale](https://www.yocale.com/), [Shore](https://www.shore.com/), or any other public calendar service.
 
-3. Willing to give some of your free time. You decide how much and when by using the calendar service that you choosed. It could be as low a 30 minute call once a month.
+3. Willing to give some of your free time. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month
 
 4. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or anyother that you like.
 
