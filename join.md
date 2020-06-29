@@ -17,14 +17,19 @@ If you have no idea how to do the steps described below feel free to [contact me
 People have asked me this when I was pitching the idea, so here are my reasons on why I do it:
 
 - I'm on tech and earning money thanks to the **free time** donated by others. I'm talking about:
-  - Linux
+  - Linux.
   - StackOverflow answers (Try blocking it for 24 hours 😏).
-  - Frameworks 
-  - PHP/Python/GO libraries
-  - Blog posts
+  - Frameworks.
+  - PHP/Python/GO libraries.
+  - Blog posts.
   - ....
-
-Also having calls with random people helps me see new ideas and connecting with people trying to build new stuffs.
+- Not for making money.
+- Help others Devs/Entrepreneurs.
+- Networking.
+- Improve my presentation skills.
+- Problem-solving training.
+- Hear about what other people are building.
+- Review tools and knowledge that I might not use too often.
 
 *This site is oriented to help people, if you're part of a company you can hire or pay one of the persons here*
 
