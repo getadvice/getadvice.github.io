@@ -39,7 +39,7 @@ That's fair, but let's break it down:
 
 1. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month.
 
-2. This site, currently, doesn't have millions of users trying to schedule a call with volunteers. That means that your calendar won't get too busy.
+2. This site, currently it doesn't have millions of users trying to schedule a call with volunteers. That means that your calendar won't get too busy.
 
 3. You can always change your availability on the calendar if you're having a lot of work and can't help for the next few weeks.
 
