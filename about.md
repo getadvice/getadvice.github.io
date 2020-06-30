@@ -6,7 +6,7 @@ permalink: /about.html
 
 # {{ page.title }}
 
-This site offers a list of people that are willing to donate part of their time to help people struggling with some tech or product issues.
+This site offers a list of people that are willing to donate part of their time to help people struggling with some tech or product issue.
 
 ### Use cases
 
@@ -16,11 +16,11 @@ This site offers a list of people that are willing to donate part of their time 
 - Need feedback about your UX/UI.
 - Need feedback to validate an idea.
 - Studying for certification and need some guidance/advice.
-- Thinking about switching the tech world and have some questions.
+- Thinking about switching to the tech world and have some questions.
 
 ### How does it work?
-Search through the list of people by looking at their skills and knowledge to find someone that matches your needs. You can look at their Blog, LinkedIn profiles, or twitter to find out more about her/him.
-It’s important to pay attention to their location and languages to make sure you timezones or languages won’t be a problem.
+Search through the list of people by looking at their skills and knowledge to find someone that matches your needs. You can look at their Blog, LinkedIn profiles, or Twitter to find out more about her/him.
+It's important to pay attention to their location and languages to make sure you timezones or languages won't be a problem.
 Once you find the right candidate, **schedule a call** with her/him. All candidates publish their calendars with possibles dates and times when they are free to talk. After that, she/he will confirm the appointment and sent you a link to a videoconference platform to have the call.
 
 ### Do I have to pay for the candidate's services?
