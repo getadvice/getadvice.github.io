@@ -18,7 +18,7 @@ Volunteers are people willing to help by provinding free advice. You can join as
 
 Users can freely choose an advisor according to their interest. To become an advisor, you need to provide a summary of your areas of expertise and your current professional references (LinkedIn, Blog, Twitter). 
 
-Listening and understanding capabilities are highly valued and encouraged to achieve a successfull advicement.
+Listening and understanding capabilities are highly valued and encouraged to achieve a successful advisement.
 
 [More on becoming a volunteer](/join.html)
 
