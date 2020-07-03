@@ -6,6 +6,8 @@ permalink: /about.html
 
 # {{ page.title }}
 
+*TLDR; Free consultancy sessions*
+
 This site connects people willing to freely advice others struggling with tech or product issues.
 
 **This is a free service.** 
