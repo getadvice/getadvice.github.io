@@ -14,7 +14,7 @@ You can voluntarily donate money to an advisor, but it is not mandatory. The goa
 
 ### About volunteers
 
-Volunteers are people willing to help by provinding free advice. You can join as a volunteer if you would like to help others in your area of expertise. 
+Volunteers are people willing to help by providing free advice. You can join as a volunteer if you would like to help others in your area of expertise. 
 
 Users can freely choose an advisor according to their interest. To become an advisor, you need to provide a summary of your areas of expertise and your current professional references (LinkedIn, Blog, Twitter). 
 
