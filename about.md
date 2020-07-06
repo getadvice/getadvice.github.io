@@ -18,7 +18,7 @@ You can voluntarily donate money to an advisor, but it is not mandatory. The goa
 
 Volunteers are people willing to help by providing free advice. You can join as a volunteer if you would like to help others in your area of expertise. 
 
-Users can freely choose an advisor according to their interest. To become an advisor, you need to provide a summary of your areas of expertise and your current professional references (LinkedIn, Blog, Twitter). 
+Users can freely choose an advisor according to their interests. To become an advisor, you need to provide a summary of your areas of expertise and your current professional references (LinkedIn, Blog, Twitter). 
 
 Listening and understanding capabilities are highly valued and encouraged to achieve a successful advisement.
 
@@ -26,7 +26,7 @@ Listening and understanding capabilities are highly valued and encouraged to ach
 
 ### About users
 
-As a user you can schedule a call with any advisor of your choice acording to your advicement needs. There's no sign up process involved.
+As a user, you can schedule a call with any advisor of your choice acording to your advisement needs. There's no sign-up process involved.
 
 ### Use cases
 
@@ -59,7 +59,7 @@ That's me [Adriano Galello](/adriano.galello).
 If you want to help out with the project contact me!. 
 
 ### I have more question!!
-[Schedule a call or cantact me](/adriano.galello) and I will answer any other questions that you may have or contact me on LinkedIn.
+[Schedule a call or contact me](/adriano.galello) and I will answer any other questions that you may have or contact me on LinkedIn.
 
 #### Others community likes this
 

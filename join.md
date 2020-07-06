@@ -54,11 +54,11 @@ To get started you need a few things that you might already have:
 
 3. Willing to give some of your free time. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month
 
-4. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or anyother that you like.
+4. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or any other that you like.
 
-5. A [LinkedIn](https://www.linkedin.com/) profile is preferred to validate you identity.
+5. A [LinkedIn](https://www.linkedin.com/) profile is preferred to validate your identity.
 
-Once the user get in touch with you, then it's up to two of you to work out the details.
+Once the user gets in touch with you, then it's up to two of you to work out the details.
 
 Remember, the main goal is trying to help others.
 
@@ -84,7 +84,7 @@ categories: Categories separated by space or ["Foo", "Bar", "Foo & Bar"] (3 or 4
 tags: Tags separated by space or ["tag 1", "tag 2"]. Keep it under 10
 city: Your City/Country name
 about: A short text about yourself (no longer than 50 words)
-linkedin: Your LinkedIn handler (the base URL will be prependedrepend https://www.linkedin.com/in/)
+linkedin: Your LinkedIn handler (the base URL will be prepended https://www.linkedin.com/in/)
 blog: Url to your blog  
 twitter: Your twitter handler (the base URL will be prepended https://twitter.com/)
 permalink: Choose a permalink for this site (usually firstname-lastname.html will be best)  
