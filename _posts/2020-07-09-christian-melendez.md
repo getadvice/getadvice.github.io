@@ -11,7 +11,7 @@ about: I started as a software developer, and more recently I became a cloud arc
 linkedin: christianmldz
 blog: https://cmelendeztech.com/
 twitter: christianmldz
-permalink: 
+permalink: christian.melendez.html
 donate_url: paypal.me/christianmldz8
 calendar_url: https://calendly.com/christianmldz/30min
 ---
