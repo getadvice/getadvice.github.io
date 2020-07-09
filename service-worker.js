@@ -1,4 +1,4 @@
-var cacheName = 'getadvice-v1';
+var cacheName = 'getadvice-v2';
 var contentToCache = [
   '/404.html',
   '/assets/img/android-chrome-192x192.png',

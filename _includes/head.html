@@ -7,11 +7,11 @@
 <script src="https://kit.fontawesome.com/7dc3015a44.js" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="9VRiAvW3q4tJtvCWjAlA6WBT9Zj5a_8QcDDAawhzaN0" />
-<meta property="og:title" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:title" content="{% if page.firstname %}{{ page.firstname}} {{ page.lastname }} - {% endif %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:image" content="{{ "/assets/img/android-chrome-512x512.png" | absolute_url }}">
+<meta property="og:image" content="{% if page.pic_url %}{{ page.pic_url }}{% else %}{{ "/assets/img/android-chrome-512x512.png" | absolute_url }}{% endif %}">
 <meta property="og:url" content="https://getadvice.github.io/">
-<meta name="twitter:card" content="{{ "/assets/img/android-chrome-512x512.png" | absolute_url }}">
+<meta name="twitter:card" content="{% if page.pic_url %}{{ page.pic_url }}{% else %}{{ "/assets/img/android-chrome-512x512.png" | absolute_url }}{% endif %}">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="Get Advice">
