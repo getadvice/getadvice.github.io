@@ -25,9 +25,15 @@ Things I could help you with:
 - Python
 - Define an API
 - Define microservices
-- Convert a monolithic into a microservices architecture.
-- Terraform
+- Convert a monolithic into a microservices architecture
 - Cloud architectures
 - Deployment strategies (CI/CD)
 - Define tech stack for your app
 - Django framework
+
+## About the call
+
+- Arrive on time to the meeting.
+- Try to be prepared before the call and, if possible, have a list of questions that you want to ask.
+- A call with a stranger can be intimidated at first, but I will do my best to make you feel comfortable during the call.
+- If you don't understand something that I've said, feel free to ask me to repeat myself.

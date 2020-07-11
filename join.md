@@ -6,7 +6,9 @@ permalink: /join.html
 
 # {{ page.title }}
 
-I'm lazy and I didn't create any backend for this. This whole site runs as a [Jekyll](https://jekyllrb.com/docs/) blog.
+I'm lazy and I didn't create any backend for this. This whole site runs as a [Jekyll](https://jekyllrb.com/docs/) blog. 
+
+[>> Click here to see how to create your profile <<](#getting-started)
 
 If you have no idea how to do the steps described below feel free to [contact me](/adriano.galello.html) and I will do it for you.
 
@@ -35,7 +37,7 @@ People have asked me this when I was pitching the idea, so here are my reasons o
 
 ### Ok, but I don't have free time
 
-That's fair, but let's break it down:
+If that's your case:
 
 1. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month.
 
@@ -52,7 +54,7 @@ To get started you need a few things that you might already have:
 
 2. An account on [Calendly](https://calendly.com/), [Yocale](https://www.yocale.com/), [Shore](https://www.shore.com/), or any other public calendar service.
 
-3. Willing to give some of your free time. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month
+3. Willing to give some of your free time. You decide how many days per week/month and how many minutes a call lasts. You can start with just 1 call of 30 mins per month.
 
 4. A videoconference tool like [Google Hangout](https://hangouts.google.com/), [WhereBy](https://whereby.com/), [Jitsi Meet](https://meet.jit.si/) or any other that you like.
 
@@ -91,8 +93,11 @@ permalink: Choose a permalink for this site (usually firstname-lastname.html wil
 donate_url: An URL to allow users to donate
 calendar_url: An URL to your public calendar like calendly, yocale, shore, etc.
 ---
-You can add extra info or tips for the call or about yourself if you want it.
+You can add extra info or tips for the call, about yourself, testimonials, etc.
+
+No js, iframes or things like that. Let's keep everything simple for now.
 ```
+
 
 ### Test it
 Test if everything looks good. This blog works with [Jekyll](https://jekyllrb.com/docs/) you can clone the forked repo and follow the instructions on Jekyll docs on how to test.
