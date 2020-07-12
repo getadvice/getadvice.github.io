@@ -37,3 +37,9 @@ Things I could help you with:
 - Try to be prepared before the call and, if possible, have a list of questions that you want to ask.
 - A call with a stranger can be intimidated at first, but I will do my best to make you feel comfortable during the call.
 - If you don't understand something that I've said, feel free to ask me to repeat myself.
+
+
+## Testimonials
+
+Robert:
+> I had a great talk with Adriano. Getting insight from an experienced developer was invaluable for me while trying to get a new idea off the ground.
