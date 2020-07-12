@@ -52,10 +52,16 @@ title: Whoami
 
           <p>
             {% if page.linkedin %}
-              <span class="icon"><i class="fab fa-linkedin"></i></span><a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">{{ page.linkedin }}</a>
+            {% assign linkedin = page.linkedin | split: "/" %}
+            {% assign linkedin_url = "https://www.linkedin.com/in/" | append: linkedin.last %}
+              <span class="icon"><i class="fab fa-linkedin"></i></span><a href="{{ linkedin_url }}" target="_blank">{{ linkedin.last }}</a>
+            
             {% endif %}
             {% if page.twitter %}
-              <span class="icon"><i class="fab fa-twitter"></i></span><a href="https://twitter.com/{{ page.twitter }}" target="_blank">{{ page.twitter }}</a>
+            {% assign twitter = page.twitter | split: "/" %}
+            {% assign twitter_url = "https://twitter.com/" | append: twitter.last %}
+              <span class="icon"><i class="fab fa-twitter"></i></span><a href="{{ twitter_url }} " target="_blank">{{ twitter.last }}</a>
+            
             {% endif %}
             
             {% if page.blog %}
