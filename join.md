@@ -89,7 +89,7 @@ about: A short text about yourself (no longer than 50 words)
 linkedin: Your LinkedIn handler (the base URL will be prepended https://www.linkedin.com/in/)
 blog: Url to your blog  
 twitter: Your twitter handler (the base URL will be prepended https://twitter.com/)
-permalink: Choose a permalink for this site (usually firstname-lastname.html will be best)  
+permalink: Choose a permalink to publish your profile (Recommended firstname.lastname.html. This way you can share yor profile link as https://getadvice.github.io/firstname.lastname.html)  
 donate_url: An URL to allow users to donate
 calendar_url: An URL to your public calendar like calendly, yocale, shore, etc.
 ---
