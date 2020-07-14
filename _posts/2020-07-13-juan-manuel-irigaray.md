@@ -43,5 +43,4 @@ Things I could help you with:
 
 Ignacio Rodriguez:
 > Juan Manuel truly dedicates himself to projects. As a client, he will make sure to be delivered the values that were committed and constantly input guidance plus share knowledge that will help the team get the job done.
-
 Clearly a fan and an early adopter of all things tech, it's always enlightening to engage in conversations with him.  
