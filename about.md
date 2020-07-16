@@ -10,7 +10,7 @@ permalink: /about.html
 
 This site connects people willing to freely advice others struggling with tech or product issues.
 
-**This is a free service.** 
+**This is a free service and is oriented to help people, if you're part of a company you can hire or pay one of the persons here**
 
 You can voluntarily donate money to an advisor, but it is not mandatory. The goal of this site is to help others.
 
