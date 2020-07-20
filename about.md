@@ -6,11 +6,10 @@ permalink: /about.html
 
 # {{ page.title }}
 
-> *TLDR; Free consultancy sessions*
+> *TLDR; Free consultancy sessions*  
+> **This is a free service and is oriented to help people, if you're part of a company you can hire or pay one of the persons here**
 
-This site connects people willing to freely advice others struggling with tech or product issues.
-
-**This is a free service and is oriented to help people, if you're part of a company you can hire or pay one of the persons here**
+This site connects people willing to freely advise others struggling with tech or product issues.
 
 You can voluntarily donate money to an advisor, but it is not mandatory. The goal of this site is to help others.
 
@@ -31,6 +30,7 @@ As a user, you can schedule a call with any advisor of your choice acording to y
 ### Use cases
 
 - Thinking about creating a new app but need some advice on software architecture, tech stack, deployments, etc.
+- Have questions about product-market fit?
 - Learning new technology and having problems understanding something.
 - Don't know how to solve a problem with your current app.
 - Need feedback about your UX/UI.

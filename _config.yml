@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Get Advice | Free talks with tech people
+title: Get Advice | Free one-on-one consultancy calls with tech and entrepreneur people
 description: >- # this means to ignore newlines until "baseurl:"
-  One-on-one calls with other tech people for advice. Tech people offering their free time to help you.
+  One-on-one consultancy calls with tech and entrepreneur people for advice. People giving their free time to help you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://getadvice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
