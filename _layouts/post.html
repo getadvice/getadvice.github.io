@@ -72,7 +72,7 @@ title: Whoami
             {% endif %}
           </p>
           <p>
-            <a href="{{ page.calendar_url }}" class="button is-link is-medium" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
+            <a href="{{ page.calendar_url }}" onclick="javascript: didyouread()" class="button is-link is-medium" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
           </p>
         </div>
       </div>
@@ -85,11 +85,30 @@ title: Whoami
     
     {{ content }}
     
-    <h1>GetAdvice rules and recommendations for the call</h1>
+    <a id="how-to-schedule-a-call-and-rules"></a>
+    <h1>How to schedule a call and rules</h1>
+    {% include meeting-workflow.html %}
+
+    <h3>GetAdvice rules and recommendations for the call</h3>
     {% include rules-advice-seeker.html %}
     <hr>
 
-    <p class="has-text-centered"><a href="{{ page.calendar_url }}" class="button is-link is-large" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
+    <p class="has-text-centered"><a href="{{ page.calendar_url }}" onclick="javascript: didyouread()" class="button is-link is-large" target="_blank"><span class="icon"><i class="fas fa-video"></i></span> <span>Schedule a call</span></a>
   </p>
 </div>
 </section>
+
+<script type="text/javascript">
+
+function didyouread(e) {
+  
+  let verify = prompt("Before scheduling a call, let's make sure you've read the rules.\nHow many characters should the message have for a volunteer to accept the meeting? (type in the number)");
+
+  if(verify != '250'){
+    alert("Please read the 'How to schedule a call and rules' first");
+    window.location.href = "#how-to-schedule-a-call-and-rules";
+    e.preventDefault();
+  }
+  
+}
+</script>

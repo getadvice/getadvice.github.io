@@ -6,6 +6,9 @@ permalink: /rules-and-conditions.html
 
 # {{ page.title }}
 
+## How does it work?
+{% include meeting-workflow.html %}
+
 ## If you're seeking advice
 {% include rules-advice-seeker.html %}
 
