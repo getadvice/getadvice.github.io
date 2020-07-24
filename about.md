@@ -13,6 +13,12 @@ This site connects people willing to freely advise others struggling with tech o
 
 You can voluntarily donate money to an advisor, but it is not mandatory. The goal of this site is to help others.
 
+### How does it work?
+
+<img src="{{ "/assets/img/meeting-workflow.svg" | relative_url }}" alt="GetAdvice Meeting Workflow">
+
+You can learn more about this on our [rules and condition sections](/rules-and-conditions.html)
+
 ### About volunteers
 
 Volunteers are people willing to help by providing free advice. You can join as a volunteer if you would like to help others in your area of expertise. 
