@@ -44,5 +44,5 @@ Things I could help you with:
 Robert:
 > I had a great talk with Adriano. Getting insight from an experienced developer was invaluable for me while trying to get a new idea off the ground.
 
-Anurag (/anurag.html):
+[Anurag](/anurag.html):
 > I am really thankful to Adriano for volunteering his time and building getAdvise platform. He is very patient and understanding. He understands the problem and then explains it with all possible dimensions. The call with Adriano was inspiring. 
