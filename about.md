@@ -27,6 +27,8 @@ Users can freely choose an advisor according to their interests. To become an ad
 
 Listening and understanding capabilities are highly valued and encouraged to achieve a successful advisement.
 
+You can become a volunteer if you're willing to offer, at least, a 30 minutes consultancy session per month.
+
 [More on becoming a volunteer](/join.html)
 
 ### About users
