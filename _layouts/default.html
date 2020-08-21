@@ -40,6 +40,13 @@
         <div class="column is-2 is-size-4"><a href="https://t.me/getadvice" target="_blank"><span class="icon"><i class="fab fa-telegram"></i></span> <span>Telegram Channel</span></a></div>
       </div>
     </footer>
+
+    <script type="text/javascript">
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+       for(let registration of registrations) {
+        registration.unregister()
+      } });
+    </script>
     
   </body>
 
