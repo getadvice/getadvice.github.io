@@ -2,7 +2,7 @@
 layout: post
 firstname: Todd
 lastname: Densmore
-pic_url: https://media-exp1.licdn.com/dms/image/C4E03AQGJ_ijxcwCTww/profile-displayphoto-shrink_400_400/0?e=1603324800&v=beta&t=UDuApBmyYPtNzBQVBpjStnVp5XsKE81lprl6zWooWcM
+pic_url: assets/profile-pics/tod.jpg
 lang: ["english"]
 categories: Programming DevOps Cloud
 tags: ["Docker", "AWS", "Kubernetes", "Microservices", "Architecture", "CI/CD Pipelines"]
