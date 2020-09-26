@@ -23,6 +23,7 @@
     {% endif %}
     {{ content }}
 
+    {% if page.layout == 'home' %}
     <section class="section" style="background: #CCC">
       <div class="container content">
         <h3 class="is-size-3">How does it work?</h3>
@@ -31,6 +32,8 @@
       </p>
       </div>
     </section>
+    {% endif %}
+
     <footer class="footer">
       <div class="columns has-text-grey-darker has-text-centered">
         <div class="column is-2 is-size-4"><a href="about.html">About GetAdvice</a></div>
