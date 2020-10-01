@@ -30,6 +30,8 @@ Things I could help you with:
 - Deployment strategies (CI/CD)
 - Define tech stack for your app
 - Django framework
+- Getting started with web development
+- Solve Bugs
 
 ## About the call
 
