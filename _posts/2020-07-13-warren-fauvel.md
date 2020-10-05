@@ -13,5 +13,5 @@ blog: https://medium.com/@warrenof
 twitter: https://twitter.com/warrenof
 permalink: warren.fauvel.html
 donate_url: 
-calendar_url: https://calendly.com/warrenof/30min
+calendar_url: https://calendly.com/warrenof/get-advice
 ---
