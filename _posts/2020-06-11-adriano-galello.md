@@ -48,3 +48,6 @@ Robert:
 
 [Anurag](/anurag.html):
 > I am really thankful to Adriano for volunteering his time and building getAdvise platform. He is very patient and understanding. He understands the problem and then explains it with all possible dimensions. The call with Adriano was inspiring. 
+
+Agata Maria:
+> I really valued Adriano's advice, his expertise and honesty.  Adriano doesn't only know tech, he understands the sector and understands people.  I love that his preferred approach is to empower, rather than brag & preach.  Anyone interested in a career in tech should book a chat!
